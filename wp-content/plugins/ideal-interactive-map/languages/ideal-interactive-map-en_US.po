@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Ideal Interactive Maps\n"
+"POT-Creation-Date: 2019-02-14 15:32+0800\n"
+"PO-Revision-Date: 2019-02-14 15:34+0800\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: interactive-map.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: interactive-map.php:453
+msgid "click to show map shortcode and attributes"
+msgstr "click to show map shortcode and attributes"
+
+#: interactive-map.php:739 interactive-map.php:864
+msgid "Ideal Interactive Map Settings"
+msgstr "Ideal Interactive Map Settings"
+
+#: interactive-map.php:757
+msgid "Disable Country Flag"
+msgstr "Disable Country Flag"
+
+#: interactive-map.php:765
+msgid "Default Colors"
+msgstr "Default Colors"
+
+#: interactive-map.php:772
+msgid "Added Country Map"
+msgstr "Added Country Map"
+
+#: interactive-map.php:779
+msgid "Disabled Country Map"
+msgstr "Disabled Country Map"
+
+#: interactive-map.php:786
+msgid "Rollover for Country Map"
+msgstr "Rollover for Country Map"
+
+#: interactive-map.php:793
+msgid "Selected for Country Map"
+msgstr "Selected for Country Map"
+
+#: interactive-map.php:808 interactive-map.php:818 interactive-map.php:828
+#: interactive-map.php:838
+msgid "e.g."
+msgstr "e.g."
+
+#: interactive-map.php:847
+msgid "Yes"
+msgstr "Yes"
+
+#. Plugin Name of the plugin/theme
+msgid "Ideal Interactive Maps"
+msgstr "Ideal Interactive Maps"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.globalnetforce.com"
+msgstr "http://www.globalnetforce.com"
+
+#. Description of the plugin/theme
+msgid "Interactive and Informative map"
+msgstr "Interactive and Informative map"
